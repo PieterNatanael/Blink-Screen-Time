@@ -22,6 +22,7 @@ Blink Screen Time app and Blink Eye Care app ("we", "us", "our") is committed to
 
 Thank you for using Blink Screen Time app and Blink Eye Care app.
 
+
 Blink Screen Time app & Blink Eye Care app（“我们”，“我们”，“我们的”）致力于保护您的隐私。本隐私政策解释了当您使用我们的移动应用程序 Blink Screen Time app and Blink Eye Care app 时，我们如何处理您的信息。
 
 数据收集：
