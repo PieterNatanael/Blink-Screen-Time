@@ -1,10 +1,10 @@
-Privacy Policy for Blink Screen Time app & Blink Eye Care app.
+Privacy Policy for Blink Time app, Blink Screen Time app & Blink Eye Care app.
 
 ---
 
 Effective Date:29-07-2024
 
-Blink Screen Time app and Blink Eye Care app ("we", "us", "our") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application, Blink Screen Time app and Blink Eye Care app.
+Blink Time app, Blink Screen Time app and Blink Eye Care app ("we", "us", "our") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application, Blink Time app, Blink Screen Time app and Blink Eye Care app.
 
 1. Data Collection:
 
@@ -20,13 +20,13 @@ Blink Screen Time app and Blink Eye Care app ("we", "us", "our") is committed to
   - Email: pieternatanael@icloud.com
 
 
-Thank you for using Blink Screen Time app and Blink Eye Care app.
+Thank you for using Blink Time app, Blink Screen Time app and Blink Eye Care app.
 
 
-Blink Screen Time app & Blink Eye Care app（“我们”，“我们”，“我们的”）致力于保护您的隐私。本隐私政策解释了当您使用我们的移动应用程序 Blink Screen Time app and Blink Eye Care app 时，我们如何处理您的信息。
+Blink Time app, Blink Screen Time app & Blink Eye Care app（“我们”，“我们”，“我们的”）致力于保护您的隐私。本隐私政策解释了当您使用我们的移动应用程序 Blink Screen Time app and Blink Eye Care app 时，我们如何处理您的信息。
 
 数据收集：
-不收集数据：我们不会收集、存储或共享 Blink Screen Time app and Blink Eye Care app 用户的任何个人信息或数据。该应用程序设计为完全在您的设备上运行，不会将任何信息传输到我们的服务器或第三方。
+不收集数据：我们不会收集、存储或共享 Blink Time app, Blink Screen Time app and Blink Eye Care app 用户的任何个人信息或数据。该应用程序设计为完全在您的设备上运行，不会将任何信息传输到我们的服务器或第三方。
 
 信息使用：
 本地存储：您在应用程序中配置的所有设置和偏好都存储在您的设备上。这包括您选择的眨眼频率、音量设置和任何其他偏好。没有数据会发送给我们或任何外部服务器。
@@ -34,13 +34,13 @@ Blink Screen Time app & Blink Eye Care app（“我们”，“我们”，“�
 联系我们：
 支持和询问：如果您对本隐私政策或应用程序有任何疑问或顾虑，请随时通过以下方式联系我们：
 电子邮件：pieternatanael@icloud.com
-感谢您使用 Blink Screen Time app & Blink Eye Care app。
+感谢您使用 Blink Time app, Blink Screen Time app & Blink Eye Care app。
 
 
 --------
 
 
-Blink Screen Time app & Blink Eye Care app («мы», «нас», «наш») стремится защищать вашу конфиденциальность. Эта Политика конфиденциальности объясняет, как мы обрабатываем вашу информацию при использовании нашего мобильного приложения Blink Screen Time app & Blink Eye Care app.
+Blink Time app, Blink Screen Time app & Blink Eye Care app («мы», «нас», «наш») стремится защищать вашу конфиденциальность. Эта Политика конфиденциальности объясняет, как мы обрабатываем вашу информацию при использовании нашего мобильного приложения Blink Screen Time app & Blink Eye Care app.
 
 Сбор данных:
 Отсутствие сбора данных: мы не собираем, не храним и не передаем личную информацию или данные пользователей Blink Screen Time app and Blink Eye Care app. Приложение разработано для работы исключительно на вашем устройстве без передачи какой-либо информации на наши серверы или третьим лицам.
