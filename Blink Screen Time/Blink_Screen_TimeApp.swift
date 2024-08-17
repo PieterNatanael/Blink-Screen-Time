@@ -8,7 +8,9 @@
 import SwiftUI
 
 @main
-struct Blink_Screen_TimeApp: App {
+struct BlinkScreenTimeApp: App {
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+
     var body: some Scene {
         WindowGroup {
             ContentView()

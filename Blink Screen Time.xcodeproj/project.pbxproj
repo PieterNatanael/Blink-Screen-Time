@@ -7,18 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		21633A5C2C7043A600850E6E /* 20rule.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21633A5B2C7043A600850E6E /* 20rule.mp3 */; };
 		21910A4B2C56539A0045462B /* Blink_Screen_TimeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21910A4A2C56539A0045462B /* Blink_Screen_TimeApp.swift */; };
 		21910A4D2C56539A0045462B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21910A4C2C56539A0045462B /* ContentView.swift */; };
 		21910A4F2C56539B0045462B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21910A4E2C56539B0045462B /* Assets.xcassets */; };
 		21910A522C56539B0045462B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21910A512C56539B0045462B /* Preview Assets.xcassets */; };
+		21910A592C5653CC0045462B /* blink_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21910A582C5653CC0045462B /* blink_sound.mp3 */; };
+		21910A5B2C5655FA0045462B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21910A5A2C5655FA0045462B /* AppDelegate.swift */; };
+		21AC855F2C59F083000FC005 /* background.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21AC855E2C59F083000FC005 /* background.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		21633A5B2C7043A600850E6E /* 20rule.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 20rule.mp3; sourceTree = "<group>"; };
 		21910A472C56539A0045462B /* Blink Screen Time.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Blink Screen Time.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		21910A4A2C56539A0045462B /* Blink_Screen_TimeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Blink_Screen_TimeApp.swift; sourceTree = "<group>"; };
 		21910A4C2C56539A0045462B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		21910A4E2C56539B0045462B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21910A512C56539B0045462B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		21910A582C5653CC0045462B /* blink_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = blink_sound.mp3; sourceTree = "<group>"; };
+		21910A5A2C5655FA0045462B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		21910A5C2C5656C70045462B /* Blink-Screen-Time-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Blink-Screen-Time-Info.plist"; sourceTree = SOURCE_ROOT; };
+		21AC855E2C59F083000FC005 /* background.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = background.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +60,14 @@
 		21910A492C56539A0045462B /* Blink Screen Time */ = {
 			isa = PBXGroup;
 			children = (
+				21910A5C2C5656C70045462B /* Blink-Screen-Time-Info.plist */,
 				21910A4A2C56539A0045462B /* Blink_Screen_TimeApp.swift */,
 				21910A4C2C56539A0045462B /* ContentView.swift */,
+				21910A5A2C5655FA0045462B /* AppDelegate.swift */,
 				21910A4E2C56539B0045462B /* Assets.xcassets */,
+				21910A582C5653CC0045462B /* blink_sound.mp3 */,
+				21AC855E2C59F083000FC005 /* background.mp3 */,
+				21633A5B2C7043A600850E6E /* 20rule.mp3 */,
 				21910A502C56539B0045462B /* Preview Content */,
 			);
 			path = "Blink Screen Time";
@@ -125,7 +139,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21910A592C5653CC0045462B /* blink_sound.mp3 in Resources */,
 				21910A522C56539B0045462B /* Preview Assets.xcassets in Resources */,
+				21AC855F2C59F083000FC005 /* background.mp3 in Resources */,
+				21633A5C2C7043A600850E6E /* 20rule.mp3 in Resources */,
 				21910A4F2C56539B0045462B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21910A5B2C5655FA0045462B /* AppDelegate.swift in Sources */,
 				21910A4D2C56539A0045462B /* ContentView.swift in Sources */,
 				21910A4B2C56539A0045462B /* Blink_Screen_TimeApp.swift in Sources */,
 			);
@@ -270,21 +288,23 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 3.33;
 				DEVELOPMENT_ASSET_PATHS = "\"Blink Screen Time/Preview Content\"";
 				DEVELOPMENT_TEAM = L295MT4VTH;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Blink-Screen-Time-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 3.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "PieterNatanael.Blink-Screen-Time";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -299,21 +319,23 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 3.33;
 				DEVELOPMENT_ASSET_PATHS = "\"Blink Screen Time/Preview Content\"";
 				DEVELOPMENT_TEAM = L295MT4VTH;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Blink-Screen-Time-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 3.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "PieterNatanael.Blink-Screen-Time";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
